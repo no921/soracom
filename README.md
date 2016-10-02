@@ -1,2 +1,0 @@
-# soracom
-test fot soracom
